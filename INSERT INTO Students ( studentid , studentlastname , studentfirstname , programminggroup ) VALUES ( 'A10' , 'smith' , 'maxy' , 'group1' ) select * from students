@@ -1,0 +1,1 @@
+INSERT INTO Students ( studentid , studentlastname , studentfirstname , programminggroup ) VALUES ( 'A10' , 'smith' , 'maxy' , 'group1' ) select * from students
