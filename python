@@ -1,0 +1,39 @@
+# VARIABLES:
+
+#name = "Navi"
+#print("My name is " +name)
+
+#age = 21
+#age = age + 1
+#print("My age is " +str(age))
+
+#height = 250.50
+#print("My height is : "+str(height))
+
+#adult = True
+#print('Are you an adult: ' + str(adult))
+
+#name, age, adult = "Navi", 21, True
+
+#print(name)
+#print(age)
+#print(adult)
+
+#harry = larry = berry = 21
+#print(larry)
+
+#name = "navi"
+#print(len(name))
+#print(name.upper())
+#print(name.lower())
+#print(name.capitalize())
+#print(name.isdigit())
+#print(name.isalpha())
+#print(name.replace("a","o"))
+#print(name.count("n"))
+#print(name*4)
+
+#name = input("what is your name: ")
+#age = int(input("Your age is : "))
+#height = float(input("How tall are you?: "))
+#print("your name is " +name.upper()+ " and your age is " + str(age)+" and, You are "+str(height)+"cm tall.")
