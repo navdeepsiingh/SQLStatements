@@ -37,3 +37,13 @@
 #age = int(input("Your age is : "))
 #height = float(input("How tall are you?: "))
 #print("your name is " +name.upper()+ " and your age is " + str(age)+" and, You are "+str(height)+"cm tall.")
+
+#pi , x , y = 3.14, 2, 3
+#print(round(pi))
+#print(math.ceil(pi))
+#print(math.floor(pi))
+#print(abs(pi))
+#print(pow(pi,2))
+#print(math.sqrt(pi))
+#print(max(x,y,pi))
+#print(min(x,y,pi))
